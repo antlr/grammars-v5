@@ -6,10 +6,6 @@ This repository is a collection of formal grammars written for [ANTLR v5](https:
 
 The root directory name is the all-lowercase name of the language or file format parsed by the grammar. For example, java, cpp, csharp, c, etc...
 
-## FAQ
-
-Please refer to the [grammars-v5 Wiki](https://github.com/antlr/grammars-v5/wiki)
-
 ## Code of Conduct
 
 Please refer to [House Rules](https://github.com/antlr/grammars-v5/blob/master/House-rules.md)
