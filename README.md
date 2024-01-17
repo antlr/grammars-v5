@@ -12,4 +12,4 @@ Please refer to the [grammars-v5 Wiki](https://github.com/antlr/grammars-v5/wiki
 
 ## Code of Conduct
 
-Please refer to [House Rules](https://github.com/antlr/grammars-v5/blob/master/House_Rules.md)
+Please refer to [House Rules](https://github.com/antlr/grammars-v5/blob/master/House-rules.md)
